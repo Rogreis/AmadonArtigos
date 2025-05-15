@@ -1,4 +1,4 @@
-# Artigos paesa estudo do Livro de Urântia
+# Artigos para estudos sobre o Livro de Urântia
 
 ## Objetivo
 
