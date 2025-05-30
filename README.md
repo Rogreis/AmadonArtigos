@@ -26,13 +26,25 @@ Estão agrupados em grupos:
 
 ## Lista de artigos
 
+Translated Directory Names
+exegese: Exegesis
+tecnico: Technical
+teologia: Theology
+traduçao: Translation
+apresentações: Presentations
+
 ### Teológicos (Filosóficos)
 
 <articles>
 <article>
 Título: Moral
 Sumário: Uma investigação sobre o entendimento da ética e da moral no Livro de Urântia.
-Link: moral.html
+Link: Theology/moral.html
+</article>
+<article>
+Título: Dia a dia com o Supremo
+Sumário: Texto da apresentação "Dia a dia com o Supremo".
+Link: Theology/supremo_comigo.html
 </article>
 </articles>
 
@@ -42,7 +54,7 @@ Link: moral.html
 <article>
 Título: Uso do termo "tensão"
 Sumário: O termo tensão aparece quando o texto fala no esforço do homem para alcançar Deus e também quando todos os seres no universo juntam esforços para o mesmo objectivo.
-Link: tensao.html
+Link: Exegesis/tensao.html
 </article>
 </articles>
 
@@ -52,13 +64,13 @@ Link: tensao.html
 <article>
 Título: Diferenças entre "insight" e "discernimento"
 Sumário: Possibilidades para tradução dde "insight" e seu significado na época da escrita do LU.
-Link: insight.html
+Link: Translation/insight.html
 </article>
 
 <article>
 Título: Atual, Real e Factual
 Sumário: Uma exploração das nuances entre "actual," "real" e "factual" em inglês, considerando tanto o uso comum quanto a perspectiva da filosofia aristotélico-tomista, com explicações em português e suas variações entre Portugal (pt-pt) e Brasil (pt-br).
-Link: atual_real_factual.html
+Link: Translation/atual_real_factual.html
 </article>
 </articles>
 
