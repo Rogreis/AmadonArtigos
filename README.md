@@ -24,14 +24,13 @@ Estão agrupados em grupos:
 
 3. **Problemas de tradução:** Artigos que discutem os desafios e as nuances da tradução do Livro de Urântia para o idioma português, identificando possíveis ambiguidades, perdas de significado ou variações interpretativas que podem surgir no processo de tradução.
 
-## Lista de artigos
+4. **Comentários**: Notas de leitura sobre algum texto em especial do Livro de Urântia.
 
-Translated Directory Names
-exegese: Exegesis
-tecnico: Technical
-teologia: Theology
-traduçao: Translation
-apresentações: Presentations
+5. **Apresentações:** Apresentações de slides feitaas em algum encontro de leitores e acompanhada de um artigo explicativo.
+
+6. **Técnicos:** Documentação de rescursos técnicos usados neste web site.
+
+## Lista de artigos
 
 ### Teológicos (Filosóficos)
 
@@ -40,11 +39,6 @@ apresentações: Presentations
 Título: Moral
 Sumário: Uma investigação sobre o entendimento da ética e da moral no Livro de Urântia.
 Link: Theology/moral.html
-</article>
-<article>
-Título: Dia a dia com o Supremo
-Sumário: Texto da apresentação "Dia a dia com o Supremo".
-Link: Theology/supremo_comigo.html
 </article>
 </articles>
 
@@ -66,13 +60,35 @@ Título: Diferenças entre "insight" e "discernimento"
 Sumário: Possibilidades para tradução dde "insight" e seu significado na época da escrita do LU.
 Link: Translation/insight.html
 </article>
-
 <article>
 Título: Atual, Real e Factual
 Sumário: Uma exploração das nuances entre "actual," "real" e "factual" em inglês, considerando tanto o uso comum quanto a perspectiva da filosofia aristotélico-tomista, com explicações em português e suas variações entre Portugal (pt-pt) e Brasil (pt-br).
 Link: Translation/atual_real_factual.html
 </article>
 </articles>
+
+### Comentários
+
+### Apresentações
+
+<articles>
+<article>
+Título: Dia a dia com o Supremo
+Sumário: Texto da apresentação "Dia a dia com o Supremo".
+Link: Presentations/supremo_comigo.html
+</article>
+</articles>
+
+### Técnicos
+
+<articles>
+<article>
+Título: Mermaid - gere gráficos com texto
+Sumário: Mermaid é uma ferramenta de diagramação baseada em texto que permite criar diversos tipos de diagramas de forma simples e rápida, usando uma sintaxe inspirada no Markdown. Em vez de arrastar e soltar elementos gráficos em um software de desenho, você escreve um código simples que descreve o diagrama, e o Mermaid o renderiza automaticamente.
+Link: Technical/Mermaid.html
+</article>
+</articles>
+
 
 ## Tradução usada
 
